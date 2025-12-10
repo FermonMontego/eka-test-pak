@@ -18,9 +18,11 @@
 # Backend (Laravel)
 cd backend
 composer install
+composer run dev
 
 # Frontend (Next.js)
 cd ../frontend
 npm install
 # или, если используете Yarn:
 # yarn install
+npm run dev или yarn dev
