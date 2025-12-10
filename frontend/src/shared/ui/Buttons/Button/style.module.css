@@ -1,0 +1,15 @@
+@reference "tailwindcss";
+
+.button {
+    @apply flex gap-2.5 items-center px-5 py-3.5 rounded-[10];
+    background: #f5f7fb;
+    cursor: pointer;
+}
+
+.primary {
+    background-color: #00b0ff;
+}
+
+.secondary {
+    background-color: #f5f7fb;
+}
