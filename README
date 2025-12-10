@@ -1,0 +1,18 @@
+Использовал
+### PHP 8.4.15
+### Laravel 12
+### PostgreSQL
+### Next
+### Redux
+### FSD
+### React Query
+
+# Для запуска необходимо
+
+### Установить все зависимости
+- В папке backend composer install
+- В папке frontend npm install или yarn
+
+### После установки пакетов
+- запуск backend командой composer run dev
+- запуск frontend командой npm run dev или yarn dev
